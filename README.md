@@ -10,7 +10,9 @@
 - 💬 Ask me about **UI DESIGN**
 
 - 📫 How to reach me **zaighamhaider8@gmail.com**
-
+<p align=left>
+    <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="linkdin logo" width="500" height="500"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkdin logo" width="100" height="100"/> </a>
