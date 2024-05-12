@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZAIGHAM HAIDER</h1>
 <h1 align="center">FRONT-END DEVELOPER</h1>
 
-- 🔭 I’m currently working on **E-COMMERCE WEBSITE**
+- 🔭 I’m currently working on **PERSONAL PORTFOLIO WEBSITE**
 
 - 🌱 I’m currently learning **FRAME WORKS**
 
