@@ -17,7 +17,7 @@
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkdin logo" width="100" height="100"/> </a>
   <a href="https://www.instagram.com/codewith_alpha7/?igsh=MXBjcnQ2dzlwZ2R5Nw%3D%3D&utm_source=qr" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram logo" width="100" height="100"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="tiktok logo" width="100" height="100"/> </a>
+  <a href="https://www.tiktok.com/@thecoder_7?_t=8lz6t7eZZDM&_r=1"><i class="fa-brands fa-tiktok social" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="tiktok logo" width="100" height="100"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
