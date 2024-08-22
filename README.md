@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PERSONAL PORTFOLIO WEBSITE**
 
-- 🌱 I’m currently learning **MY SQL**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **FRONT-END BASED PROJECTS**
 
