@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZAIGHAM HAIDER</h1>
-<h1 align="center">WEB DEVELOPER</h1>
+<h1 align="center">WEBSITE DEVELOPER</h1>
 
 - 🔭 I’m currently working on **PERSONAL PORTFOLIO WEBSITE**
 
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/zaigham-haider-62b60728b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwA1xomeAQWWYHemJgDWXcg%3D%3D" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkdin logo" width="100" height="100"/> </a>
-  <a href="https://www.instagram.com/codewithalpha7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram logo" width="100" height="100"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
