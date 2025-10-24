@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **Personal Portfolio Website**  
-- 🌱 Learning **.NET**  
+- 🌱 Learning **Laravel**  
 - 👯 Looking to collaborate on **Back-End Projects**  
 - 💬 Ask me about **PHP & Laravel**  
 - 📫 Reach me at **[zaighamhaider8@gmail.com](mailto:zaighamhaider8@gmail.com)**  
@@ -58,7 +58,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zaighamhaider7&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaighamhaider7&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
@@ -66,6 +66,6 @@
 ---
 
 ### 🏆 Top Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaighamhaider7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
