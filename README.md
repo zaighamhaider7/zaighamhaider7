@@ -1,63 +1,82 @@
-<h1 align="center">Hi 👋, I'm ZAIGHAM HAIDER</h1>
-<h2 align="center">💻 PHP | Laravel Developer</h2>
+<!-- ======================= HEADER ======================= -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#f05454;">Zaigham Haider</span></h1>
+<h3 align="center">💻 PHP | Laravel Developer | Web & Mobile App Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="coding gif" width="300"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Animation" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Personal Portfolio Website**  
-- 🌱 Learning **Laravel**  
-- 👯 Looking to collaborate on **Back-End Projects**  
-- 💬 Ask me about **PHP & Laravel**  
-- 📫 Reach me at **[zaighamhaider8@gmail.com](mailto:zaighamhaider8@gmail.com)**  
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** specialized in **PHP & Laravel**, dedicated to building efficient back-end systems and modern, responsive web applications.  
+I love combining functionality with clean design — from **dynamic websites** to **mobile apps** built with **Flutter**.
+
+- 🔭 Currently working on: **My Personal Portfolio**
+- 🌱 Learning: **.NET** & **Advanced Laravel**
+- 👯 Open to collaborate on: **Back-End Projects**
+- 💬 Ask me about: **PHP | Laravel | MySQL**
+- 📫 Reach me: **[zaighamhaider8@gmail.com](mailto:zaighamhaider8@gmail.com)**
 
 ---
 
-### 🧠 Skills & Expertise
+## 🧠 Tech Stack
 
-#### 💻 Back-End
+### 💻 Back-End
 <p>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="60"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60"/></a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,sqlite" height="60" />
 </p>
 
-#### 🎨 Front-End
+### 🎨 Front-End
 <p>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="60" />
 </p>
 
-#### 📱 Mobile
+### 📱 Mobile Development
 <p>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60"/></a>
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" />
 </p>
 
-#### 🧰 Tools
+### 🧰 Tools & Platforms
 <p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60"/></a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="60" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
-<p>
+## 🌐 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/zaigham-haider-62b60728b" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zaighamhaider8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-### 🏆 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaighamhaider7&layout=compact&theme=radical" alt="Top Languages" />
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaighamhaider7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaighamhaider7&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaighamhaider7&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+> “Clean code always looks like it was written by someone who cares.” 💡  
+> I’m not just coding — I’m crafting digital experiences.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
