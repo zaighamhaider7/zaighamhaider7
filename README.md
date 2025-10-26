@@ -7,8 +7,7 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Personal Portfolio Website**  
+### 🚀 About Me 
 - 🌱 Learning **Laravel**  
 - 👯 Looking to collaborate on **Back-End Projects**  
 - 💬 Ask me about **PHP & Laravel**  
