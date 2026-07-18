@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me 
-- 🌱 Learning **Laravel**  
+- 🌱 Learning **MERN Stack**  
 - 👯 Looking to collaborate on **Back-End Projects**  
 - 💬 Ask me about **PHP & Laravel**  
 - 📫 Reach me at **[zaighamhaider8@gmail.com](mailto:zaighamhaider8@gmail.com)**  
